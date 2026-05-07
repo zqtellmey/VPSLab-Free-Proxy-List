@@ -1,10 +1,10 @@
 # [VPSLab](https://vpslab.cloud/) Free Proxy Lists
-[![banner](https://i.ibb.co/QFb4Fr0r/VPSB-BANNER.png "Claim 20% OFF")](https://vpslab.cloud/)
+[![banner](https://iili.io/BBrV4Vt.png "Claim 20% OFF")](https://vpslab.cloud/)
 > **Free, fast, and frequently updated proxy lists** — HTTP, HTTPS, SOCKS4, and SOCKS5 proxies updated every 15 minutes.
 
 Welcome to **VPSLab Free Proxy List**, a repository dedicated to providing continuously updated lists of free proxy servers from around the world. Whether you need proxies for web scraping, bypassing geo-restrictions, or anonymous browsing, we've got you covered.
 
-**Last updated:** `2026-05-07 16:18 UTC` | **Total files:** 16
+**Last updated:** `2026-05-07 16:19 UTC` | **Total files:** 16
 
 ---
 
@@ -31,7 +31,7 @@ If you find this project helpful:
 
 ## 💡 Proxy File Index
 
-**Last updated:** `2026-05-07 16:18 UTC`
+**Last updated:** `2026-05-07 16:19 UTC`
 
 | File | Protocol | SSL | Anonymity | Count |
 |------|----------|-----|-----------|-------|
