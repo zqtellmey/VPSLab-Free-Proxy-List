@@ -1,9 +1,10 @@
-# Updated Proxies: 2026-05-28 09:41 UTC
+# Updated Proxies: 2026-05-28 09:56 UTC
 # Protocol: http | SSL: yes | Anonymity: anonymous
 # Powered by VPSLab Cloud Hosting: https://vpslab.cloud
 
-150.107.140.238:3128
-201.71.2.41:999
-8.210.54.203:8888
+34.101.184.164:3128
+14.143.222.113:57718
+101.255.122.82:8090
 195.25.20.155:3128
-149.202.47.125:3128
+182.53.202.208:8080
+150.107.140.238:3128
